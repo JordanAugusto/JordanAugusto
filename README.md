@@ -1,11 +1,15 @@
 ### Olá! Eu sou o Jordan Augusto.
 
 <div>
-<a href="https://github.com/JordanAugusto/">
+<a href="https://github.com/JordanAugusto/"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordanaugusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanaugusto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<h3>Olá,</h3>
+
+<h4>Tenho 25 anos, moro em Betim/MG e sou um entusiasta pela are da programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso!</h4>  
+  
 - 🔭 Estudando Analise e desenvolvimento de sistema
 
 
