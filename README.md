@@ -41,5 +41,5 @@ Tenho 25 anos, moro em Betim/MG e sou um entusiasta pela área da programação!
 <a href ="mailto:cotato@jordan-direito12@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-
+![Snake animation](https://github.com/JordanAugusto/JordanAugusto/blob/output/github-contribution-grid-snake.svg)
 
