@@ -38,7 +38,7 @@ Tenho 25 anos, moro em Betim/MG e sou um entusiasta pela área da programação!
                                                                                                                       
 <div>
 <a href="https://www.linkedin.com/in/jordan-augusto-0573a7168?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCCcIVaVVTrC82VKVcCmuVw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href ="jordan-direito12@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href ="mailto:cotato@jordan-direito12@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
 
