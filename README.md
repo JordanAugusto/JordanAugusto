@@ -12,7 +12,7 @@ Tenho 25 anos, moro em Betim/MG e sou um entusiasta pela área da programação!
   
 👨‍🎓 Estudando Analise e desenvolvimento de sistema;
 
-📚 Constantemente evoluindo em Javascript e PHP, iniciei meus estudos para desenvolver alguns projetos pessoais e acabei gostando da área;
+📚 Constantemente evoluindo em Javascript, PHP e C#, iniciei meus estudos para desenvolver alguns projetos pessoais e acabei gostando da área;
 
 ☕ Só acordo com café, gosto muito de jogos (principalmente os de RTS kkk) e faço algumas piadas ruins, com certa frequência;
 
