@@ -6,7 +6,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanaugusto&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<h3>Tudo bom?</h3>
+<h3>Tudo bom</h3>
 
 Tenho 25 anos, moro em Betim/MG e sou um entusiasta pela área da programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso! </br></br>
   
