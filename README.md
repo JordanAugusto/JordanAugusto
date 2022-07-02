@@ -1,4 +1,4 @@
-### <h1>Olá! Eu sou o Jordan</h1>
+### <h1>Olá! Eu sou o Jordan
 
 <div>
 <a href="https://github.com/JordanAugusto/"/>
