@@ -8,7 +8,7 @@
 
 <h3>Tudo bom?</h3>
 
-Tenho 26 anos, moro em Betim/MG e sou um entusiasta pela área da programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso! </br></br>
+Tenho 27 anos, moro em Betim/MG e sou um entusiasta pela área da programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso! </br></br>
   
 👨‍🎓 Estudando Analise e desenvolvimento de sistema;
 
