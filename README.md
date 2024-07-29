@@ -4,13 +4,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanaugusto&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<h1>Olá, Me chamo Jordan!</h1>
-<p><h4>Trabalho com desenvolvimento web desde 2020, no que me fez entregar projetos notáveis, 
-demonstrando habilidades sólidas no ciclo completo de desenvolvimento, desde a concepção até a implementação do sistema.
-Com o intuito de contribuir de maneira significativa para equipes e colaboradores. Agregando mais produtividade e agilidade nos processos desempenhados.</h4></p>
-
-<p><h4>Fique a vontade!</h4></p>
-
 -🖥 Linguagem e Tecnologias</br>
 
 <div>
